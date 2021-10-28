@@ -1,0 +1,31 @@
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\bin\Debug\netcoreapp3.1\PKAD Merge-Purge report.exe
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\bin\Debug\netcoreapp3.1\PKAD Merge-Purge report.deps.json
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\bin\Debug\netcoreapp3.1\PKAD Merge-Purge report.runtimeconfig.json
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\bin\Debug\netcoreapp3.1\PKAD Merge-Purge report.runtimeconfig.dev.json
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\bin\Debug\netcoreapp3.1\PKAD Merge-Purge report.dll
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\bin\Debug\netcoreapp3.1\PKAD Merge-Purge report.pdb
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\bin\Debug\netcoreapp3.1\NPOI.dll
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\obj\Debug\netcoreapp3.1\PKAD Merge-Purge report.csproj.AssemblyReference.cache
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\obj\Debug\netcoreapp3.1\App.g.cs
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\obj\Debug\netcoreapp3.1\PKAD Merge-Purge report_MarkupCompile.cache
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\obj\Debug\netcoreapp3.1\PKAD Merge-Purge report_MarkupCompile.lref
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\obj\Debug\netcoreapp3.1\PKAD Merge-Purge report.g.resources
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\obj\Debug\netcoreapp3.1\PKAD Merge-Purge report.AssemblyInfoInputs.cache
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\obj\Debug\netcoreapp3.1\PKAD Merge-Purge report.AssemblyInfo.cs
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\obj\Debug\netcoreapp3.1\PKAD Merge-Purge report.csproj.CoreCompileInputs.cache
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\obj\Debug\netcoreapp3.1\PKAD Merge-Purge report.csproj.CopyComplete
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\obj\Debug\netcoreapp3.1\PKAD Merge-Purge report.dll
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\obj\Debug\netcoreapp3.1\PKAD Merge-Purge report.pdb
+E:\My Work\2021\10\PKAD Merge-Purge report\PKAD Merge-Purge report\obj\Debug\netcoreapp3.1\PKAD Merge-Purge report.genruntimeconfig.cache
